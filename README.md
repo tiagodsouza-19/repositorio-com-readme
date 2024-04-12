@@ -10,4 +10,4 @@ Um projeto de teste com arquivo de readme
 -JS
 
 -Screen to Gif 
-<url https://www.screentogif.com/>
+<https://www.screentogif.com/>
