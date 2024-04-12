@@ -1,6 +1,6 @@
-# Projeto com README
-Um projeto de teste com arquivo de readme
-👀✖💲
+# Projeto de teste com README
+Eu achando que já avancei o suficiente nos estudos e aparece mais desafios e quests
+👀😱
 
 <img src="./dog_rev2.gif" alt="gif do primeiro dog no REV 2 modo leon">
 
